@@ -1,3 +1,4 @@
+# 用chatgpt4优化程序
 import asyncio
 from telethon import TelegramClient
 
